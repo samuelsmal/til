@@ -25,3 +25,5 @@ sophisticated creation logic.
 invoking a constructor function.
 
 For more information see the [doc](https://docs.angularjs.org/api/auto/service/$provide)
+
+- and [http://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory](http://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory)
