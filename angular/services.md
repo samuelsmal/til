@@ -23,3 +23,5 @@ sophisticated creation logic.
 
 `$provide.service` is for cases where the whole creation logic boils down to
 invoking a constructor function.
+
+For more information see the [doc](https://docs.angularjs.org/api/auto/service/$provide)
