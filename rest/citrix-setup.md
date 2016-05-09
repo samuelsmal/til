@@ -11,7 +11,7 @@ created_on: 2016-05-09
   $ sudo dnf install ./ICAClientWeb-rhel-[...].rpm
   ```
 3. Add additional certificates (optional)
-  1. Download the certificates, e.g. `Thawte Root Certificates`
+  1. Download the certificates, e.g. [Thawte Root Certificates](https://www.thawte.com/roots/) (I selected Root 1 - without further reading into it)
   2. Move the certificates into the citrix directory:
     ```
     mv /path/to/cert.pem /path/to/citrix/ICAClient/keystore/cacerts/
